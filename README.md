@@ -1,1 +1,1 @@
-# AMulator: an Arm Cortex-M emulator
+# ACcuMulator: an Arm Cortex-M emulator
